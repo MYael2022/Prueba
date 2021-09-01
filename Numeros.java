@@ -1,5 +1,5 @@
 import java.io.*;
-
+//P
 public class Numeros{
     public static BufferedReader entrada = 
           new BufferedReader (new InputStreamReader(System.in));
